@@ -1,0 +1,10 @@
+Hola mundo
+#include<iostream>
+using namespace std ;
+int main (){
+	int hola mundo;
+	cout <<"hola mundo";
+
+	return 0;
+	}
+
